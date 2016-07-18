@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c85d539faaa89c1ad2ee340d7746cf4a7e89bafb">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/instant-run_814a6f9e0985a2bdb105627e3992b14bbedecbf9.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_b7bc73de61b58d0159f459036951fb37fc02f06a.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_7bb1573b61b51f947d02076d410db79baa825f94.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_6e6eb5b77fbcee60aeb36c8efef14766d7f43c1d.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="33ef5b8f7de03d24f844d9cb6224bd2227e79f1e">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_70066d2448617fab3025f3349b8607392602a8b5.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5449604d1283281043b24827d3f17be535a48364.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3cdab03af7f2633752fd347c9e83ccc573d8433f.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_e7995fff0b81e18649417651ed5a11d0677e6e31.jar" />
+    </item>
+    <item
+        jar="/home/peacock/Android/android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/peacock/Downloads/Volley-Example-master/VolleyExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_40a15bd9f5478963d0d0d84a0d7a1070cbe81e22.jar" />
+    </item>
+
+</items>
